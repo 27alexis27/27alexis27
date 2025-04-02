@@ -1,48 +1,44 @@
-<h2 align="center"></h2>
+<h2 align="center">Welcome to my GitHub!</h2>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=27alexis27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=27alexis27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true" height="175" alt="languages graph"  />
+<div align="center" style="border-radius: 15px; overflow: hidden; padding: 10px; background: #1e1e2e;">
+  <img src="https://github-readme-stats.vercel.app/api?username=27alexis27&show_icons=true&include_all_commits=true&count_private=true&theme=city_lights&hide_border=true" height="175" alt="GitHub Stats" style="border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=27alexis27&layout=compact&langs_count=5&theme=city_lights&hide_border=true" height="175" alt="Top Languages" style="border-radius: 10px;"/>
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+### 🛠️ Languages & Tools
+<div align="left" style="display: flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="Lua" style="border-radius: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" style="border-radius: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" style="border-radius: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" style="border-radius: 5px;"/>
 </div>
 
-###
+---
 
-<img align="right" height="175" src="https://media.discordapp.net/attachments/1135223459283214417/1357027193431134489/latest.png?ex=67eeb58f&is=67ed640f&hm=78c81c3bd1057952659bbcb4ebe58a579b79ce4bf087f2522140d25171477a7e&=&format=webp&quality=lossless&width=656&height=804"  />
+<img align="right" height="175" src="https://media.discordapp.net/attachments/1135223459283214417/1357027193431134489/latest.png?format=webp&quality=lossless&width=656&height=804" style="border-radius: 15px;"/>
 
-###
-
-<div align="left">
+### 🌍 Find Me Here
+<div align="left" style="display: flex; gap: 10px;">
   <a href="https://discord.gg/arizonarp" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" style="border-radius: 8px;"/>
   </a>
   <a href="https://www.youtube.com/@Pablo_developpement" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" style="border-radius: 8px;"/>
   </a>
   <a href="https://paypal.me/27alexis27" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&style=for-the-badge" height="35" alt="PayPal" style="border-radius: 8px;"/>
   </a>
 </div>
 
-###
+---
 
-<div align="center">
+### 🎵 Recently Played on Spotify
+<div align="center" style="border-radius: 15px; padding: 10px; background: #1e1e2e;">
   <a href="https://open.spotify.com/user/misteralexis21">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=misteralexis21&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=misteralexis21&count=5&unique=false" alt="Spotify recently played" style="border-radius: 10px;"/>
   </a>
 </div>
-
-###
