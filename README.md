@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=27alexis27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=27alexis27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=27alexis27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=27alexis27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true" height="175" alt="languages graph"  />
 </div>
 
 ###
@@ -39,8 +39,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/27alexis27/27alexis27/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/misteralexis21">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=misteralexis21&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
