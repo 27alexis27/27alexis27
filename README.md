@@ -19,8 +19,6 @@
 
 ---
 
-<img align="right" height="175" src="https://media.discordapp.net/attachments/1135223459283214417/1357027193431134489/latest.png?format=webp&quality=lossless&width=656&height=804" style="border-radius: 15px;"/>
-
 ### 🌍 Find Me Here
 <div align="left" style="display: flex; gap: 10px;">
   <a href="https://discord.gg/arizonarp" target="_blank">
