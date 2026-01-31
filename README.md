@@ -28,12 +28,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" />
 
-  <br/><br/>
-
-  ### 🌱 Apprentissage : C & JavaScript
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-
 </div>
 
 ---
@@ -43,15 +37,11 @@
   ### 📊 Analyse de Performance
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=27alexis27&show_icons=true&theme=dark&title_color=D4AF37&icon_color=D4AF37&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=27alexis27&show_icons=true&theme=dark&title_color=D4AF37&icon_color=D4AF37&hide_border=true&include_all_commits=true&count_private=true" width="400" />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27alexis27&layout=compact&theme=dark&title_color=D4AF37&hide_border=true" width="400" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=27alexis27&theme=darkhub&no-frame=true&no-bg=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27alexis27&layout=compact&theme=dark&title_color=D4AF37&hide_border=true&langs_count=8" width="400" />
 
 </div>
 
