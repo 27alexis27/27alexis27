@@ -1,58 +1,68 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&background=00000000&center=true&vCenter=true&width=435&lines=27alexis27+%7C+Full+Stack+Developer;High+Stakes+Coding;Crypto+%26+Linux+Enthusiast;18+Years+Old+•+Driven+by+Logic" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Salut+!+Moi+c'est+27alexis27+👋;Développeur+Passionné;J'aime+Lua,+Python+et+le+Web;Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
   </a>
 
   <br/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding animation">
 
-  <table>
-    <tr>
-      <td>
-        <h1>🎩 Welcome to the VIP Lounge</h1>
-        <p>
-          Développeur de <b>18 ans</b>, je combine la rigueur du code avec l'audace du <b>High Stakes Development</b>. 
-          Spécialisé dans l'automatisation et les environnements sécurisés (Linux/Crypto), je mise sur l'efficacité et la performance.
-        </p>
-      </td>
-    </tr>
-  </table>
+  <br/><br/>
+
+  <p align="center">
+    Bienvenue sur mon espace ! Je suis un passionné de code qui adore construire des projets et automatiser des tâches.<br>
+    Actuellement, je renforce mes bases et j'explore des langages plus bas niveau.
+  </p>
 
 </div>
 
 ---
 
-### 🎲 Technical Assets (Stack & Skills)
-
-| Category | technologies |
-| :--- | :--- |
-| **Main Deck** (Maîtrise) | ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) |
-| **Next Bet** (Apprentissage) | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **System & Finance** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Blockchain](https://img.shields.io/badge/-Crypto-FF9900?style=flat-square&logo=bitcoin&logoColor=white) |
-
----
-
-### 📊 Performance Dashboard
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=27alexis27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=ffffff" alt="Stats" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27alexis27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=ffffff" alt="Langs" width="100%" />
-      </td>
-    </tr>
-  </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=27alexis27&theme=tokyonight&hide_border=true&background=0D1117&sideLabels=D4AF37&stroke=D4AF37&ring=D4AF37" alt="Streak" />
+  ### 🛠️ Ma Stack Technique
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+
+  <br/><br/>
+
+  ### 🌱 J'apprends actuellement
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
 </div>
 
 ---
 
 <div align="center">
-  <p><i>"In code we trust, in logic we bet."</i></p>
+
+  ### 📊 Mes Statistiques GitHub
+  <br/>
+
+  <a href="https://github.com/27alexis27">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=27alexis27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="27alexis27 stats"/>
+  </a>
   
-  <img src="https://komarev.com/ghpvc/?username=27alexis27&label=LOUNGE+VISITORS&color=D4AF37&style=flat-square" alt="Visitor Count" />
+  <a href="https://github.com/27alexis27">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27alexis27&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs"/>
+  </a>
+
+</div>
+
+<div align="center">
+  
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=27alexis27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=27alexis27&label=Vues+du+profil&color=blue&style=flat" alt="compteur de vues" />
 </div>
