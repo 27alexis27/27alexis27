@@ -1,42 +1,68 @@
-<h2 align="center">Welcome to my GitHub!</h2>
+<div align="center">
 
----
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Salut+!+Moi+c'est+27alexis27+👋;Développeur+Passionné;J'aime+Lua,+Python+et+le+Web;Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
+  </a>
 
-<div align="center" style="border-radius: 15px; overflow: hidden; padding: 10px; background: #1e1e2e;">
-  <img src="https://github-readme-stats.vercel.app/api?username=27alexis27&show_icons=true&include_all_commits=true&count_private=true&theme=city_lights&hide_border=true" height="175" alt="GitHub Stats" style="border-radius: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=27alexis27&layout=compact&langs_count=5&theme=city_lights&hide_border=true" height="175" alt="Top Languages" style="border-radius: 10px;"/>
+  <br/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding animation">
+
+  <br/><br/>
+
+  <p align="center">
+    Bienvenue sur mon espace ! Je suis un passionné de code qui adore construire des projets et automatiser des tâches.<br>
+    Actuellement, je renforce mes bases et j'explore des langages plus bas niveau.
+  </p>
+
 </div>
 
 ---
 
-### 🛠️ Languages & Tools
-<div align="left" style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="Lua" style="border-radius: 5px;"/>
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" style="border-radius: 5px;"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" style="border-radius: 5px;"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" style="border-radius: 5px;"/>
+<div align="center">
+
+  ### 🛠️ Ma Stack Technique
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+
+  <br/><br/>
+
+  ### 🌱 J'apprends actuellement
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
 </div>
 
 ---
 
-### 🌍 Find Me Here
-<div align="left" style="display: flex; gap: 10px;">
-  <a href="https://discord.gg/arizonarp" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" style="border-radius: 8px;"/>
+<div align="center">
+
+  ### 📊 Mes Statistiques GitHub
+  <br/>
+
+  <a href="https://github.com/27alexis27">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=27alexis27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="27alexis27 stats"/>
   </a>
-  <a href="https://www.youtube.com/@Pablo_developpement" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" style="border-radius: 8px;"/>
+  
+  <a href="https://github.com/27alexis27">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27alexis27&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs"/>
   </a>
-  <a href="https://paypal.me/27alexis27" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&style=for-the-badge" height="35" alt="PayPal" style="border-radius: 8px;"/>
+
+</div>
+
+<div align="center">
+  
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=27alexis27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
   </a>
+
 </div>
 
 ---
 
-### 🎵 Recently Played on Spotify
-<div align="center" style="border-radius: 15px; padding: 10px; background: #1e1e2e;">
-  <a href="https://open.spotify.com/user/misteralexis21">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=misteralexis21&count=5&unique=false" alt="Spotify recently played" style="border-radius: 10px;"/>
-  </a>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=27alexis27&label=Vues+du+profil&color=blue&style=flat" alt="compteur de vues" />
 </div>
