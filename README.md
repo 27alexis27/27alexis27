@@ -58,6 +58,5 @@
 ---
 
 <div align="center">
-  <p><i>"Logic is the ultimate high stakes game."</i></p>
   <img src="https://komarev.com/ghpvc/?username=27alexis27&label=VISITEURS&color=D4AF37&style=flat-square" />
 </div>
