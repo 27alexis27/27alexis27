@@ -1,7 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2500&pause=1000&color=F7BF4C&width=435&lines=SOH1GH;18+yeard+old;Specialized+in+fivem;Passionate+about+crypto%2Fmarket;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Learn+the+Linux+environment" alt="Typing SVG" />+
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2500&pause=1000&color=F7BF4C&center=true&width=435&lines=SOH1GH;18+yeard+old;Specialized+in+fivem;Passionate+about+crypto%2Fmarket;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Learn+the+Linux+environment" alt="Typing SVG" />
 
   <br/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding animation">
