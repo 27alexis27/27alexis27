@@ -38,36 +38,17 @@
 
 ---
 
+### 📉 Graphique de Commits (Tous projets)
 <div align="center">
-
-  ### 📈 Statistiques Globales
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=27alexis27&show_icons=true&theme=dark&title_color=D4AF37&icon_color=D4AF37&hide_border=true" width="400" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27alexis27&layout=compact&theme=dark&title_color=D4AF37&hide_border=true" width="400" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=27alexis27&theme=darkhub&no-frame=true&no-bg=true" width="400" />
-
-</div>
-
----
-
-### 📉 Graphique des Commits
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=27alexis27&theme=react-dark&bg_color=0d1117&hide_border=true&color=F7BF4C" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=27alexis27&theme=react-dark&bg_color=0d1117&hide_border=true&color=F7BF4C&area=true" width="100%" />
 </div>
 
 ---
 
 ### 📩 Contact
-
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" height="20" /> **GitHub :** [github.com/27alexis27](https://github.com/27alexis27)
-* <img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" width="20" height="20" /> **Discord :** `ton_pseudo`
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="18" height="18" /> **GitHub :** [27alexis27](https://github.com/27alexis27)
+* <img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" width="18" height="18" /> **Discord :** `soh1gh.xyz`
+* * <img src="https://www.flaticon.com/fr/icone-gratuite/envoyer-le-symbole_46076" width="18" height="18" /> **Discord :** `soh1gh.xyz`
 
 <br/>
 
