@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2500&pause=1000&color=F7BF4C&center=true&width=435&lines=SOH1GH;18+yeard+old;Specialized+in+fivem;Passionate+about+crypto%2Fmarket;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Learn+the+Linux+environment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2500&pause=1000&color=F7BF4C&center=true&width=435&lines=SOH1GH;18+years+old;Specialized+in+FiveM;Passionate+about+crypto%2Fmarket;Linux+Environment+Lover;Learning+C+%26+JavaScript" alt="Typing SVG" />
 
   <br/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding animation">
@@ -12,6 +12,13 @@
     Expertise : <b>Environnement Linux</b> & <b>Technologies Blockchain</b>.
   </p>
 
+</div>
+
+---
+
+### 📊 Activité GitHub
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=27alexis27&theme=react-dark&bg_color=0d1117&hide_border=true&color=F7BF4C" width="100%" />
 </div>
 
 ---
@@ -30,7 +37,7 @@
 
   <br/><br/>
 
-  ### 🌱 Apprentissage : C & JavaScript
+  ### 🌱 En cours d'apprentissage
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
 
@@ -40,7 +47,7 @@
 
 <div align="center">
 
-  ### 📊 Analyse de Performance
+  ### 📈 Statistiques
   <br/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=27alexis27&show_icons=true&theme=dark&title_color=D4AF37&icon_color=D4AF37&hide_border=true" width="400" />
@@ -56,6 +63,12 @@
 </div>
 
 ---
+
+### 🚀 Contact
+* **GitHub:** [github.com/27alexis27](https://github.com/27alexis27)
+* **Discord:** `ton_pseudo_discord` (à modifier si tu veux !)
+
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=27alexis27&label=VISITEURS&color=D4AF37&style=flat-square" />
