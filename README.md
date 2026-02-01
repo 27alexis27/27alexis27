@@ -47,9 +47,8 @@
 
 ### 📩 Contact
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="18" height="18" /> **GitHub :** [27alexis27](https://github.com/27alexis27)
-* <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/mail.svg" width="18" height="18" /> **Email :** [soh1gh.contact@gmail.com](mailto:soh1gh.contact@gmail.com)
-* <img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" width="18" height="18" /> **Discord :** `ton_pseudo_discord`
-
+* <img src="https://cdn.simpleicons.org/gmail" width="18" height="18" /> **Email :** [soh1gh.contact@gmail.com](mailto:soh1gh.contact@gmail.com)
+* <img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" width="18" height="18" /> **Discord :** `soh1gh.xyz`
 <br/>
 
 <div align="center">
