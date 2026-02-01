@@ -16,13 +16,6 @@
 
 ---
 
-### 📊 Activité GitHub
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=27alexis27&theme=react-dark&bg_color=0d1117&hide_border=true&color=F7BF4C" width="100%" />
-</div>
-
----
-
 <div align="center">
 
   ### 🛠️ Expertise Technique
@@ -45,28 +38,16 @@
 
 ---
 
+### 📉 Graphique des Commits & Activité
 <div align="center">
-
-  ### 📈 Statistiques
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=27alexis27&show_icons=true&theme=dark&title_color=D4AF37&icon_color=D4AF37&hide_border=true" width="400" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27alexis27&layout=compact&theme=dark&title_color=D4AF37&hide_border=true" width="400" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=27alexis27&theme=darkhub&no-frame=true&no-bg=true" width="400" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=27alexis27&theme=react-dark&bg_color=0d1117&hide_border=true&color=F7BF4C" width="100%" />
 </div>
 
 ---
 
-### 🚀 Contact
+### 📩 Contact
 * **GitHub:** [github.com/27alexis27](https://github.com/27alexis27)
-* **Discord:** `ton_pseudo_discord` (à modifier si tu veux !)
+* **Discord:** `ton_pseudo_ici`
 
 <br/>
 
