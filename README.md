@@ -38,17 +38,17 @@
 
 ---
 
-### 📉 Graphique de Commits (Tous projets)
+### 📉 Graph stat (only public)
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=27alexis27&theme=react-dark&bg_color=0d1117&hide_border=true&color=F7BF4C&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=27alexis27&theme=react-dark&bg_color=0d1117&hide_border=true&color=F7BF4C" width="100%" />
 </div>
 
 ---
 
 ### 📩 Contact
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="18" height="18" /> **GitHub :** [27alexis27](https://github.com/27alexis27)
-* <img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" width="18" height="18" /> **Discord :** `soh1gh.xyz`
-* * <img src="https://www.flaticon.com/fr/icone-gratuite/envoyer-le-symbole_46076" width="18" height="18" /> **Discord :** `soh1gh.xyz`
+* <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/mail.svg" width="18" height="18" /> **Email :** [soh1gh.contact@gmail.com](mailto:soh1gh.contact@gmail.com)
+* <img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" width="18" height="18" /> **Discord :** `ton_pseudo_discord`
 
 <br/>
 
