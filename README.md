@@ -8,8 +8,7 @@
   <br/><br/>
 
   <p>
-    <b>Développeur de 18 ans</b> focalisé sur la performance et la sécurité.<br>
-    Expertise : <b>Environnement Linux</b> & <b>Technologies Blockchain</b>.
+    <b>Développeur de 18 ans</b> focalisé sur l'opti et la sécurité.<br>
   </p>
 
 </div>
