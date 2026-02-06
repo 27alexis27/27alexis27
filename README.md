@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2500&pause=1000&color=F7BF4C&center=true&width=435&lines=SOH1GH;18+years+old;Specialized+in+FiveM;Passionate+about+crypto%2Fmarket;Linux+Environment+Lover;Learning+C+%26+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2500&pause=1000&color=F7BF4C&center=true&width=435&lines=SOH1GH;18+years+old;Specialized+in+FiveM;Passionate+about+crypto%2Fmarket;Linux+Environment+Lover;Learning+C%2C+JS+%26+Arduino" alt="Typing SVG" />
 
   <br/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding animation">
@@ -31,7 +31,8 @@
 
   ### 🌱 En cours d'apprentissage
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40" />
 
 </div>
 
