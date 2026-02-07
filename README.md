@@ -38,7 +38,7 @@
 
 ---
 
-### 📉 Graph stat (only public)
+### 📉 Commits stats
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=27alexis27&theme=react-dark&bg_color=0d1117&hide_border=true&color=F7BF4C" width="100%" />
 </div>
